@@ -1,3 +1,3 @@
-# sport_league
+## sport_league
 
 #A simple Ruby project.
